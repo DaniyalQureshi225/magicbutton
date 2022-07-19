@@ -1,0 +1,13 @@
+*{overflow: hidden;}
+
+Button{
+
+  position: absolute;
+  top: 50%;
+  background-color: #8e44ad !important;
+}
+
+.bg{
+  height: 100vh;
+  width: 100vw;
+}
